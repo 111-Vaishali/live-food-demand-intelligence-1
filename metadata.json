@@ -1,0 +1,5 @@
+{
+  "name": "Food Demand Intelligence",
+  "description": "Real-time command center for cloud kitchens using Trend Velocity to drive immediate menu and promotion decisions.",
+  "requestFramePermissions": []
+}
